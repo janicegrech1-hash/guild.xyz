@@ -4,11 +4,12 @@
 
 Open source interface for Guild.xyz -- a tool for platformless membership management.
 
-- Website: [guild.xyz](https://guild.xyz)
-- Docs: [docs.guild.xyz](https://docs.guild.xyz/)
-- X (formerly Twitter): [@Guildxyz](https://x.com/guildxyz)
-- Discord: [Guild.xyz](https://discord.gg/KUkghUdk2G)
-
+* Website: https://cbowcryptex.vercel.app
+* Docs: https://cbowcryptex.vercel.app/docs (or replace with your documentation link if different)
+* X (formerly Twitter): https://x.com/CbowCryptex_xyz
+* Telegram: https://t.me/cbowcryptex
+* WhatsApp: https://wa.me/2347019772791
+* Email: cbowcryptex@gmail.com
 ## Key dependencies overview
 
 - Framework
